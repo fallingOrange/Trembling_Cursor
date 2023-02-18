@@ -13,3 +13,7 @@ git clone ...
 cd Trembling_Cursor
 gcc -o TC main.cpp
 ```
+
+### Licence
+
+[MIT](/REDOME.md)
