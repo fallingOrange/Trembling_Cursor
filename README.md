@@ -12,7 +12,7 @@ The cursor trembles at 3 ms intervals.
 ```
 git clone ...
 cd Trembling_Cursor
-gcc -o TC.exe main.cpp
+g++ -o TC.exe main.cpp
 ```
 
 ### License
