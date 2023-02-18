@@ -16,4 +16,4 @@ gcc -o TC main.cpp
 
 ### Lisence
 
-[MIT](/../LISENCE)
+[MIT](/LISENCE)
