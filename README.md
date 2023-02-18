@@ -14,6 +14,6 @@ cd Trembling_Cursor
 gcc -o TC main.cpp
 ```
 
-### Licence
+### Lisence
 
-[MIT](/REDOME.md)
+[MIT](/../LISENCE)
