@@ -3,6 +3,6 @@ Mouse cursor is trembling.
 
 ### Requirement
 
-> Windows
-> GCC
+- Windows
+- GCC
 
