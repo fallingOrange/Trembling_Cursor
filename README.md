@@ -6,3 +6,10 @@ Mouse cursor is trembling.
 - Windows
 - GCC
 
+### Usage
+
+```
+git clone ...
+cd Trembling_Cursor
+gcc -o TC main.cpp
+```
