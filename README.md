@@ -2,7 +2,7 @@
 Mouse cursor is trembling.
 
 ### Overview
-
+The cursor trembles at 3 ms intervals.
 
 ### Requirement
 - Windows
@@ -12,7 +12,7 @@ Mouse cursor is trembling.
 ```
 git clone ...
 cd Trembling_Cursor
-gcc -o TC main.cpp
+gcc -o TC.exe main.cpp
 ```
 
 ### License
